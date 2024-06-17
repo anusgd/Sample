@@ -1,5 +1,7 @@
 # Sample Markdown Document
 
+# Learning github
+
 Welcome to this sample Markdown document. This document demonstrates various features of Markdown.
 
 ## Table of Contents
@@ -18,17 +20,22 @@ Welcome to this sample Markdown document. This document demonstrates various fea
 Markdown allows you to use up to six levels of headings.
 
 # Heading 1
+
 ## Heading 2
+
 ### Heading 3
+
 #### Heading 4
+
 ##### Heading 5
+
 ###### Heading 6
 
 ## Text Formatting
 
-You can format your text using **bold**, *italic*, or ***both***. You can also use `inline code` for short code snippets.
+You can format your text using **bold**, _italic_, or **_both_**. You can also use `inline code` for short code snippets.
 
-Here is a paragraph with some **bold** text, some *italic* text, and some ***bold italic*** text.
+Here is a paragraph with some **bold** text, some _italic_ text, and some **_bold italic_** text.
 
 ## Lists
 
@@ -67,3 +74,4 @@ Use triple backticks for code blocks:
 ```python
 def hello_world():
     print("Hello, world!")
+```
